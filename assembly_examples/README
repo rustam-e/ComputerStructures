@@ -1,0 +1,6 @@
+Simple examples for C335.  These demonstrate the use of C as a testbench, QEMU for
+simulation, and GDB for debugging.   Change to an example directory
+
+make       -->   builds .elf file, .lst files with disassemble code for each .s
+make test  --> builds, runs qemu
+make debug --> builds, runs qemu + gdb

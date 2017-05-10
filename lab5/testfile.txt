@@ -1,0 +1,3 @@
+Word Count for the lab.
+
+This is lab5.
